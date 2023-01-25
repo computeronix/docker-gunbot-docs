@@ -20,15 +20,18 @@ docker run -d computeronix/gunbot:latest
 
 Once the image is downloaded, it will run and auto-start in usually about one minute or less.
 
-If the port, by default 5000, is open on the host, and pass-thru the container, go to https://IPofCONTAINER:5000 (localhost could be used if local environment)
+If the port, by default 5000, is open on the host, and pass-thru the container, go to `https://IPofCONTAINER:5000` (localhost could be used if local environment)
 
 {% hint style="info" %}
-PRO TIP: if this is the first time using Gunbot, or you need assistance setting up the config, open the port and pass-it through the container, then use the Web GUI to set it up. The Gunbot team has done an outstanding job with the Web GUI! DO NOT forget to use the persistent data option below if you plan to keep your data
+PRO TIP: if this is the first time using Gunbot, or you need assistance setting up the config, open the port and pass it through the container, then use the Web GUI to set it up. The Gunbot team has done an outstanding job with the Web GUI!
+
+DO NOT forget to use the persistent data option below if you plan to keep your data
 {% endhint %}
 
 ### Example with persistent data and pass-through
 
 ```
-docker run -d computeronix/gunbot:latest -p 5000:5000 -v "/host/directory/to/volume:/mnt/gunbot"
+docker run -d computeronix/gunbot:latest -p 5010:5000 -v "/host/directory/to/volume:/mnt/gunbot"
 ```
 
+In the above example, Gunbot would be available on `https://IPofCONTAINER:5010` and data would persist on the mounted directory `/host/directory/to/volume`.
