@@ -14,16 +14,16 @@ This setup will allow for a vanilla, Gunbot setup, in less than a minute, allowi
 
 Key capabilities of this Gunbot container:
 
-* Latest version tag -> auto-builds with the latest stable version of Gunbot
-* Supports HTTPS by default of the Web GUI with a self-sign SSL certificate (requires using persistent data)
-* Gunbot Betas are supported, use the tag `:beta`
+* Auto-builds with the latest **stable** version of Gunbot, use the tag `:latest`
+* Auto-builds with the latest **beta** version of Gunbot, use the tag `:beta`
+* Multi-platform support ( `amd64` and `arm64` )
+* Supports HTTPS by default with the Web GUI
 * [Gunthy Marketplace](https://marketplace.gunthy.io/) custom scripts are supported (requires using persistent data)
-
-Listed on the Gunthy Marketplace, check us out at: [https://marketplace.gunthy.io/extras/GunbotDocker](https://marketplace.gunthy.io/extras/GunbotDocker)
+* Listed on the Gunthy Marketplace, [check us out](https://marketplace.gunthy.io/extras/GunbotDocker)
 
 ## What is Gunbot
 
-Gunbot is an easy to use, advanced crypto trading bot. You define or select a trading strategy and watch Gunbot trade. Enabling you to get up to hundreds of profitable trades per day, 24/7.
+Gunbot is an easy-to-use, advanced crypto trading bot. You define or select a trading strategy and watch Gunbot trade. Enabling you to get up to hundreds of profitable trades per day, 24/7.
 
 Learn more about Gunbot at [https://www.gunbot.com](https://www.gunbot.com)
 
