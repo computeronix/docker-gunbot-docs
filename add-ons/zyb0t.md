@@ -19,7 +19,7 @@ Key capabilities of this container:
 
 ## Licensing
 
-zyb0t requires a license from the author. Please contact your reseller to learn more.
+zyb0t requires a license. Please contact zy0n to inquire about a license.
 
 ## Support
 
