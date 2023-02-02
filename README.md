@@ -4,6 +4,10 @@ description: Documentation on the Unofficial Gunbot Docker container
 
 # Introduction
 
+GitHub Repository: [https://github.com/computeronix/docker-gunbot](https://github.com/computeronix/docker-gunbot)
+
+Docker Hub: [https://hub.docker.com/r/computeronix/gunbot](https://hub.docker.com/r/computeronix/gunbot)
+
 ## Overview
 
 I have been a [Gunbot](https://gunthy.org/gunbot/) community member since 2019 and decided to help the community out with a need of a standardized containizered app of Gunbot for an easy to run setup.
