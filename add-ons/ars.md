@@ -19,7 +19,7 @@ Key capabilities of this container:
 
 ## Licensing
 
-ARS requires a license. Please contact bestnaf to inquire about a license.
+ARS requires a license. A license can be acquired from the [Gunthy Marketplace](https://marketplace.gunthy.io/for-gunbot-market-maker/ars-intelligent-trend-algo).
 
 ## How to Get Started[​](https://marketplace.gunthy.io/extras/GunbotDocker#how-to-get-started) <a href="#how-to-get-started" id="how-to-get-started"></a>
 
