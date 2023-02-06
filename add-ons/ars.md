@@ -1,8 +1,8 @@
 # ARS
 
-GitHub Repository: [https://github.com/computeronix/docker-zyb0t](https://github.com/computeronix/docker-zyb0t)
+GitHub Repository: [https://github.com/computeronix/docker-](https://github.com/computeronix/docker-zyb0t)[ars](https://github.com/computeronix/docker-ars)
 
-Docker Hub: [https://hub.docker.com/r/computeronix/zyb0t](https://hub.docker.com/r/computeronix/zyb0t)
+Docker Hub: [https://hub.docker.com/r/computeronix/](https://hub.docker.com/r/computeronix/zyb0t)[ars](https://hub.docker.com/r/computeronix/ars)
 
 ## Overview
 
@@ -55,6 +55,6 @@ In the above example, Gunbot would be available on `https://IPofCONTAINER:5010` 
 
 ## Support
 
-* Review the [ARS documentation](https://ars-team-wiki.gitbook.io/wikitemp/start-here/introduction)
-* Join the Telegram Community
+* Review the ARS documentation for setup, ask crazymop or bestnaf for a copy of it
+* Join the Telegram Community, ask crazymop or bestnaf for access to it.
 * Submit issues/feedback/feature requests at the \[[GitHub site](https://github.com/computeronix/docker-ars/issues)]
