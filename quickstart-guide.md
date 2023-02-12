@@ -31,7 +31,7 @@ DO NOT forget to use the persistent data option below if you plan to keep your d
 ### Example with persistent data and pass-through
 
 ```
-docker run -d computeronix/gunbot:latest -p 5010:5000 -v "/host/directory/to/volume:/mnt/gunbot"
+docker run -d -p 5010:5000 -v "/host/directory/to/volume:/mnt/gunbot" computeronix/gunbot:latest
 ```
 
 In the above example, Gunbot would be available on `https://IPofCONTAINER:5010` and data would persist on the mounted directory `/host/directory/to/volume`.
